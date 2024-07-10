@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/battleship/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/battleship/checkShip.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Gamefield.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/ship.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Coordinates.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/typeShips.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/35305#comment
+status: Unchecked
+record: 2
